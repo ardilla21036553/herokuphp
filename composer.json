@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Nurul Ardilla",
+        "email": "21036553@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
