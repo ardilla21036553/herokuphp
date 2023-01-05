@@ -1,4 +1,4 @@
-<html>
+<html lan="en">
 <head>
 </head>
 <body>
